@@ -1,2 +1,2 @@
 # cypress-playground
-My personal repo for playing with cypress
+This is my personal repo for practicing cypress e2e testing.

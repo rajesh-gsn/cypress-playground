@@ -1,0 +1,22 @@
+{
+  "name": "cypress-playground",
+  "version": "1.0.0",
+  "description": "This is my personal repo for practicing cypress e2e testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajesh-gsn/cypress-playground.git"
+  },
+  "author": "rajesh-gsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajesh-gsn/cypress-playground/issues"
+  },
+  "homepage": "https://github.com/rajesh-gsn/cypress-playground#readme",
+  "dependencies": {
+    "cypress": "^13.3.2"
+  }
+}
